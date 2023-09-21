@@ -1,7 +1,23 @@
 body {
 	font-family: 'Poppins', 'Times New Roman', Times, serif;
+	font-size: medium;
 	margin: 0;
 	padding: 0;
+}
+
+a{
+	color: #0000EE;
+    text-decoration: none;
+	font-size: medium;
+	transition: font-size 0.2s;
+}
+
+a:hover {
+    font-size: large;
+}
+
+img:hover{
+	transform: scale(1.25);
 }
 
 header {
