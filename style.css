@@ -49,3 +49,14 @@ nav ul li a {
 section {
 	padding: 50px;
 }
+
+table {
+	border-collapse: collapse;
+	width: 50%;
+	background-color: #fff;
+
+}
+th, td {
+	padding: 8px;
+	text-align: center;
+}
